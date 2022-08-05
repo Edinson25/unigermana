@@ -59,6 +59,11 @@
     transform: scale(0.6);
 }
 
+
+.block{
+    z-index: -1;
+}
+
 @media(max-width:991px){
     .espacing{
         text-align: center;
